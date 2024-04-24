@@ -1,4 +1,4 @@
-DB_ROOT_PASSWORD=test
-DB_NAME=tutorial
-DB_PASSWORD=test
-DB_USER=test
+TZ=Asia/Tokyo
+POSTGRES_USER=user
+POSTGRES_PASSWORD=password
+POSTGRES_DB=app
