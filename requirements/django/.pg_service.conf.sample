@@ -1,0 +1,5 @@
+[my_service]
+host=postgres
+user=POSTGRES_USER
+dbname=POSTGRES_DB
+port=5432
