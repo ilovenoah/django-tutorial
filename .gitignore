@@ -1,1 +1,7 @@
 .env
+requirements/postgres/data
+requirements/django/mysite/.my_pgpass
+requirements/django/mysite/.pg_service.conf
+requirements/django/mysite/mysite/__pycache__
+requirements/django/mysite/polls/__pycache__
+requirements/django/mysite/polls/migrations/__pycache__
