@@ -5,6 +5,7 @@ services:
     ports:
       - 8000:8000
     restart: always
+    tty: true
     networks:
       - docker_network
     env_file:
