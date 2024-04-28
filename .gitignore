@@ -1,5 +1,6 @@
 .env
-requirements/postgres/data
+requirements/postgres/data/*
+!requirements/postgres/data/dummy
 requirements/django/mysite/.my_pgpass
 requirements/django/mysite/.pg_service.conf
 requirements/django/mysite/mysite/__pycache__
